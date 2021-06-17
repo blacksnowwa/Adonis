@@ -38,7 +38,7 @@ class DialyController {
                value: 'Option5',
                label: 'ปลอกหมอนลายเด็ก'
              }],
-            addCount:0
+            addCount:2
            }
 
         return tableData
